@@ -4,11 +4,6 @@
     "solc": "0.5.16", 
     "use_yarn": true, 
     "slither": {
-        "target": ".", 
-        "commands_before": [
-            {
-                "command": ["yarn"]
-            }
-        ]
+        "target": "."
     }
 }
